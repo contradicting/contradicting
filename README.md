@@ -1,4 +1,11 @@
-- 👋 Hey, I’m @QuietWy
-- I’m currently learning python and maybe will try to learn java soon!
-- Add me on discord if you need anything! AWK#1881
+
+# Hey!
+
+- @CorruptK on Tele (Discord got locked so I can't use)
+- Languages : Python
+- OS : Windows 10
+
+_I like to program and code things in python!_
+
+
 
