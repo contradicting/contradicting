@@ -1,7 +1,9 @@
 
 # Hey!
 
-- @CorruptK on Tele (Discord got locked so I can't use)
+- Alias : desire , torment
+- Telegram : @CorruptK 
+- Discord : torment#1111
 - Languages : Python
 - OS : Windows 10
 
