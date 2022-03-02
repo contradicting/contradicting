@@ -7,7 +7,8 @@
 - Languages : Python
 - OS : Windows 10
 
-_I like to program and code things in python!_
+_I code in python and am learning to pentest with 
+Kali Linux_
 
 
 
